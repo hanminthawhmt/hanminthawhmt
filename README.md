@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Software Engineering student with a strong interest in mobile app development, particularly using Flutter for cross-platform applications. <br>I currently specialize in creating cross-platform apps using Flutter, focusing on building responsive, high-performance solutions for both Android and iOS.<br>Through my academic projects, I’ve gained practical experience in developing mobile apps and integrating Firebase for authentication and real-time databases, specifically Firebase Authentication and Firestore. <br>I’ve also designed and integrated RESTful APIs using Strapi, enabling me to build full-stack mobile applications.
+I’m a Software Engineering student with a strong interest in mobile app development, particularly using Flutter for cross-platform applications. I currently specialize in creating cross-platform apps using Flutter, focusing on building responsive, high-performance solutions for both Android and iOS. Through my academic projects, I’ve gained practical experience in developing mobile apps and integrating Firebase for authentication and real-time databases, specifically Firebase Authentication and Firestore. I’ve also designed and integrated RESTful APIs using Strapi, enabling me to build full-stack mobile applications.
 
 
 ## 🌐 Socials:
